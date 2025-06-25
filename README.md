@@ -14,6 +14,6 @@ In order to open the link in a new tab on your browser, just do CTRL+click (on W
 
 ### Notebooks
 
-**Session 1: **Introduction to AC Voltage and Phasors Pt.1**
+**Notebook 1:** ** *Introduction to AC Voltage and Phasors Pt.1*
 
 Goto Notebook 1: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ElkePahl/NZIP2024_Python_Modelling_Physics/blob/main/notebook1_2024.ipynb)
