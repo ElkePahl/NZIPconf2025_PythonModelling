@@ -5,4 +5,4 @@ In completing the notebooks, you will gain the knowledge to create Python notebo
 
 Tailored for teachers with minimal experience in programming and who wish to enhance their teaching toolkit by acquiring a new skill.
 
-Experience with teaching Level3 Electrodynamics is required.
+Experience with teaching *Level 3 Electrodynamics* is required.
