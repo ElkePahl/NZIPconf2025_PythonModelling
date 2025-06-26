@@ -4,7 +4,7 @@ Containts a set of 3 Python notebooks illustrating electrodynamics contents like
 In completing the notebooks, you will gain the knowledge to create Python notebooks, enabling you to construct interactive coding worksheets for use in your classroom.
 
 Tailored for teachers with minimal experience in programming and who wish to enhance their teaching toolkit by acquiring a new skill.
-The Python knowledge used in these notebooks build upon the Python skills developped in a set of three [Python notebooks on NCEA level2 Kinematics](https://github.com/ElkePahl/NZIP2024_Python_Modelling_Physics/blob/main/README.md).
+The Python knowledge used in these notebooks build upon the Python skills developped in a set of three [Python notebooks on NCEA level 2 Kinematics](https://github.com/ElkePahl/NZIP2024_Python_Modelling_Physics/blob/main/README.md).
 
 Experience with teaching *NCEA Level 3 Electrodynamics* is required.
 
@@ -35,4 +35,4 @@ Goto Notebook 1: [![Open In Colab](https://colab.research.google.com/assets/cola
 
 Solutions: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ElkePahl/NZIPconf2025_PythonModelling/blob/main/Python_Notebook_No_3_Solutions.ipynb)
 
-Derivation for task 4(d) can be found [here](https://github.com/ElkePahl/NZIPconf2025_PythonModelling/blob/main/Task 4 part d derivation.jpg). 
+Derivation for task 4(d) can be found [here](https://github.com/ElkePahl/NZIPconf2025_PythonModelling/blob/main/Task\ 4\ part\ d\ derivation.jpg). 
