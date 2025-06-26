@@ -17,3 +17,5 @@ In order to open the link in a new tab on your browser, just do CTRL+click (on W
 **Notebook 1:** *Introduction to AC Voltage and Phasors Pt.1*
 
 Goto Notebook 1: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ElkePahl/NZIPconf2025_PythonModelling/blob/main/Python_Notebook_No_1.ipynb)
+
+Solutions: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ElkePahl/NZIPconf2025_PythonModelling/blob/main/Python_Notebook_No_1_Solutions.ipynb)
