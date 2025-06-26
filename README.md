@@ -34,3 +34,5 @@ Solutions: [![Open In Colab](https://colab.research.google.com/assets/colab-badg
 Goto Notebook 1: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ElkePahl/NZIPconf2025_PythonModelling/blob/main/Python_Notebook_No_3.ipynb)
 
 Solutions: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ElkePahl/NZIPconf2025_PythonModelling/blob/main/Python_Notebook_No_3_Solutions.ipynb)
+
+Derivation for task 4(d) can be found [here](Task 4 part d derivation.jpg). 
