@@ -4,8 +4,9 @@ Containts a set of 3 Python notebooks illustrating electrodynamics contents like
 In completing the notebooks, you will gain the knowledge to create Python notebooks, enabling you to construct interactive coding worksheets for use in your classroom.
 
 Tailored for teachers with minimal experience in programming and who wish to enhance their teaching toolkit by acquiring a new skill.
+The Python knowledge used in these notebooks build upon the Python skills developped in a set of three Python notebooks on NCEA level2 Kinematics.
 
-Experience with teaching *Level 3 Electrodynamics* is required.
+Experience with teaching *NCEA Level 3 Electrodynamics* is required.
 
 The notebooks can be opened in google colab - if you do not have an account yet, please make one using a gmail address.
 Clicking the ```google colab``` buttons below will directly open the corresponding notebooks in google colab.
