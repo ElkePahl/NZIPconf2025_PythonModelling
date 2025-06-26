@@ -4,7 +4,7 @@ Containts a set of 3 Python notebooks illustrating electrodynamics contents like
 In completing the notebooks, you will gain the knowledge to create Python notebooks, enabling you to construct interactive coding worksheets for use in your classroom.
 
 Tailored for teachers with minimal experience in programming and who wish to enhance their teaching toolkit by acquiring a new skill.
-The Python knowledge used in these notebooks build upon the Python skills developped in a set of three Python notebooks on NCEA level2 Kinematics.
+The Python knowledge used in these notebooks build upon the Python skills developped in a set of three [Python notebooks on NCEA level2 Kinematics](https://github.com/ElkePahl/NZIP2024_Python_Modelling_Physics/blob/main/README.md).
 
 Experience with teaching *NCEA Level 3 Electrodynamics* is required.
 
