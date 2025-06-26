@@ -11,6 +11,8 @@ The notebooks can be opened in google colab - if you do not have an account yet,
 Clicking the ```google colab``` buttons below will directly open the corresponding notebooks in google colab.
 In order to open the link in a new tab on your browser, just do CTRL+click (on Windows and Linux) or CMD+click (on MacOS).
 
+Video solutions will be made available here after the NZIP conference.
+
 
 ### Notebooks
 
@@ -19,3 +21,15 @@ In order to open the link in a new tab on your browser, just do CTRL+click (on W
 Goto Notebook 1: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ElkePahl/NZIPconf2025_PythonModelling/blob/main/Python_Notebook_No_1.ipynb)
 
 Solutions: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ElkePahl/NZIPconf2025_PythonModelling/blob/main/Python_Notebook_No_1_Solutions.ipynb)
+
+**Notebook 2:** *Introduction to Inductors, Capacitors, and Phasors Pt. 2*
+
+Goto Notebook 1: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ElkePahl/NZIPconf2025_PythonModelling/blob/main/Python_Notebook_No_2.ipynb)
+
+Solutions: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ElkePahl/NZIPconf2025_PythonModelling/blob/main/Python_Notebook_No_2_Solutions.ipynb)
+
+**Notebook 3:** *Exploring Resonance*
+
+Goto Notebook 1: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ElkePahl/NZIPconf2025_PythonModelling/blob/main/Python_Notebook_No_3.ipynb)
+
+Solutions: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ElkePahl/NZIPconf2025_PythonModelling/blob/main/Python_Notebook_No_3_Solutions.ipynb)
